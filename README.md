@@ -1,4 +1,4 @@
-# ML4--nonlinear_logistic_regression
+## Logistic Regression with inputs expanded by radial basis function
 
 <p align="center">
   <img width=400 src="demo_images/raw_data.jpg" >
