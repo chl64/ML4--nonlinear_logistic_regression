@@ -10,6 +10,8 @@
   <img width=350 src="demo_images/feature_expansion.png" >
 </p>
 
+---
+
 The value of the hyperparameter ![](http://latex.codecogs.com/gif.latex?l) affects how well the classifier performs. The resulting class boundaries for different ![](http://latex.codecogs.com/gif.latex?l) are displayed below, and their performances assessed via confusion matrices and log likelihood. It is obvious that when ![](http://latex.codecogs.com/gif.latex?l) becomes too small (0.01), the classifier overfits the training data.
 
 <p align="center">
@@ -24,6 +26,7 @@ The value of the hyperparameter ![](http://latex.codecogs.com/gif.latex?l) affec
   <img width=800 src="demo_images/classifier with radius 001.png" >
 </p>
 
+
 <p align="center">
   <img width=700 src="demo_images/confusion matrices.png" >
 </p>
@@ -32,3 +35,6 @@ The value of the hyperparameter ![](http://latex.codecogs.com/gif.latex?l) affec
   <img width=700 src="demo_images/log likelihood.png" >
 </p>
 
+---
+
+*Demo above is part of a short coursework. Full problem statement and analysis can be found in `Problems.pdf` and `Report.pdf` respectively.*
